@@ -55,8 +55,8 @@ class WhyUseEventRAy extends Component {
             <div className="">
               <iframe
                 title="Event Ray"
-                width="400"
-                height="290"
+                width="100%"
+                height="100%"
                 src="//www.youtube.com/embed/Q8TXgCzxEnw?rel=0"
                 frameborder="0"
                 allowfullscreen

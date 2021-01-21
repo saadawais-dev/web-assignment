@@ -112,7 +112,7 @@ code {
 }
 .integrations {
   background-color: #39dcf1;
-  clip-path: polygon(120% 18%, 140% 75%, 0 100%, 0 0);
+  clip-path: polygon(140% 20%, 240% 80%, 0 100%, 0 0);
   height: 150%;
 }
 .integrations h5 {
@@ -147,7 +147,7 @@ code {
 }
 .contactus {
   background-color: #39dcf1;
-  clip-path: polygon(100% 0, 100% 100%, 0 83%, 0 17%);
+  clip-path: polygon(100% 0%, 100% 100%, 0 83%, 0 12%);
   text-align: center;
   padding: 4%;
 }
