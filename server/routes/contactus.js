@@ -16,7 +16,7 @@ router.post("/", async (req, res) => {
     });
 });
 
-async function sendEmail(email, name, message) {
+async function sendEmail(name, email, message) {
   let transporter = nodemailer.createTransport({
     service: "gmail",
     auth: {
